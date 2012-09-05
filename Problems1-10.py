@@ -61,7 +61,7 @@ def problem4(d):
       
 
 # Problem 5: What is the smallest positive number that is evenly 
-# divisible by all of the numbers from 1 to 20?
+# divisible by all of the numbers from i to n?
 def problem5(i,n):
    prod = 1
    if i == 1: i += 1
